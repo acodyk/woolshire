@@ -1,0 +1,672 @@
+@font-face {
+  font-family: Americana;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_n4.e48f0c04dfcd15cf0297d6a79006cabda02b0d13.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=138613f174ffed7f7cb386f2c222738be1473c535c6f5202374e2e6f31fe763e") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_n4.82fd6d36971133e9a39ac8d8783e24cfd710a2de.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=3451a30dc4fad6af7844c78fa2ba4ef19ca40cd662f973d922c6fbf236ed9f15") format("woff");
+}
+
+@font-face {
+  font-family: Americana;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_i4.349e8ef201b8775b7f8bb215387201567efc5e55.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=4cf76af5a1a555fe46b607de9a711405413d52dc79dff630851ee47dcc6893c8") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_i4.2b27ebe63e0c96787f00ebcccfb8470958c98414.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=02365d4b386a307329b51f46e4979d18dd8101ee7c7717602e270af9efbe9fa2") format("woff");
+}
+
+@font-face {
+  font-family: Americana;
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_n7.dd29a55af4a70b7c14bb52dbc2c66d28ecc4549c.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=ed1b0110784146764d863c2467be36a69514fb85bbe1e646db34276d963c146a") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_n7.b90dc501205730290fb3e7fa49a0ff0d5a469861.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=a0f8d60b0b523524056364b8a28ea491f789087877f8cef1a35e805e35c2f1b5") format("woff");
+}
+
+  
+
+
+
+  
+@font-face {
+  font-family: Americana;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_n4.e48f0c04dfcd15cf0297d6a79006cabda02b0d13.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=138613f174ffed7f7cb386f2c222738be1473c535c6f5202374e2e6f31fe763e") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_n4.82fd6d36971133e9a39ac8d8783e24cfd710a2de.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=3451a30dc4fad6af7844c78fa2ba4ef19ca40cd662f973d922c6fbf236ed9f15") format("woff");
+}
+
+@font-face {
+  font-family: Americana;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_i4.349e8ef201b8775b7f8bb215387201567efc5e55.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=4cf76af5a1a555fe46b607de9a711405413d52dc79dff630851ee47dcc6893c8") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_i4.2b27ebe63e0c96787f00ebcccfb8470958c98414.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=02365d4b386a307329b51f46e4979d18dd8101ee7c7717602e270af9efbe9fa2") format("woff");
+}
+
+@font-face {
+  font-family: Americana;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_n4.e48f0c04dfcd15cf0297d6a79006cabda02b0d13.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=138613f174ffed7f7cb386f2c222738be1473c535c6f5202374e2e6f31fe763e") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_n4.82fd6d36971133e9a39ac8d8783e24cfd710a2de.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=3451a30dc4fad6af7844c78fa2ba4ef19ca40cd662f973d922c6fbf236ed9f15") format("woff");
+}
+
+@font-face {
+  font-family: Americana;
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("https://fonts.shopifycdn.com/americana/americana_i4.349e8ef201b8775b7f8bb215387201567efc5e55.woff2?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=4cf76af5a1a555fe46b607de9a711405413d52dc79dff630851ee47dcc6893c8") format("woff2"),
+       url("https://fonts.shopifycdn.com/americana/americana_i4.2b27ebe63e0c96787f00ebcccfb8470958c98414.woff?h1=dGhld29vbHNoaXJlLmNvbQ&hmac=02365d4b386a307329b51f46e4979d18dd8101ee7c7717602e270af9efbe9fa2") format("woff");
+}
+
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+@font-face {
+  font-family: "Single Product Webicons Regular";
+  src: url('//cdn.shopify.com/s/files/1/0654/5509/6046/t/7/assets/singleproductwebicons-regular.woff?v=121403992484715806711683037338') format("woff");
+  font-style: normal;
+  font-weight: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "social-icons";
+  src: url(//cdn.shopify.com/s/files/1/0654/5509/6046/t/7/assets/startup.eot?v=138612389179168323131683037338);
+  src: url(//cdn.shopify.com/s/files/1/0654/5509/6046/t/7/assets/startup.eot?v=138612389179168323131683037338) format("embedded-opentype"), url(//cdn.shopify.com/s/files/1/0654/5509/6046/t/7/assets/startup.woff?v=81100377708436625411683037338) format("woff"), url(//cdn.shopify.com/s/files/1/0654/5509/6046/t/7/assets/startup.ttf?v=168532487452250645961683037338) format("truetype"), url(//cdn.shopify.com/s/files/1/0654/5509/6046/t/7/assets/startup.svg?v=95265721864073377491683037338) format("svg");
+  font-style: normal;
+  font-weight: normal;
+  font-display: block;
+}
+.icon {
+  font-family: "Single Product Webicons Regular";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.share-icon:before {
+  font-family: "Single Product Webicons Regular";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  margin-right: 8px;
+}
+
+.icon-tweet:before {
+  content: "\e201";
+}
+
+.icon-like:before {
+  content: "\e202";
+}
+
+.icon-pin:before {
+  content: "\e203";
+}
+
+.icon-plus:before {
+  content: "\e205";
+}
+
+.icon-fancy:before {
+  content: "\e206";
+}.template-gift_card {
+  font-family: "New York",Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+}
+.template-gift_card a {
+  text-decoration: none;
+}
+.template-gift_card .btn {
+  font-family: Americana,serif;
+  font-style: normal;
+  font-weight: 400;
+  background-color: #58686f;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 1.5em;
+  font-size: 0.875em;
+  line-height: 1;
+  border-radius: 4px;
+  display: inline-block;
+  vertical-align: baseline;
+  zoom: 1;
+  *display: inline;
+  *vertical-align: auto;
+}
+.template-gift_card .btn:hover {
+  background-color: #414d53;
+}
+.template-gift_card .wrap {
+  width: 95%;
+  max-width: 540px;
+  margin: 0 auto;
+}
+.template-gift_card .wrap:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.template-gift_card header {
+  text-align: center;
+  padding: 3em 0;
+  animation: fadein 0.5s ease-in-out both 0.4s;
+}
+.template-gift_card .shop-title {
+  font-family: "New York",Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.25em;
+  color: #bfbfbf;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+.template-gift_card .shop-title:hover {
+  color: #999999;
+}
+.template-gift_card .shop-title img {
+  max-height: 100%;
+  margin: 0 auto;
+}
+.template-gift_card main {
+  padding-bottom: 3em;
+  animation: slideup 0.8s ease-in-out;
+}
+.template-gift_card .gift-card-outer-container {
+  background-color: #34aadc;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
+  padding: 1em;
+  animation: container-slide 0.8s ease-in-out;
+}
+.template-gift_card .gift-card-inner-container {
+  background-color: #fff;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  animation: cardslide 0.8s ease-in-out;
+}
+.template-gift_card .gift-card-inner-container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.template-gift_card .gift-card-header {
+  border-bottom: 1px solid #f2f2f2;
+  padding: 0.75em;
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+.template-gift_card .gift-card-header h2 {
+  float: left;
+  margin: 0.12em 0;
+}
+.template-gift_card .gift-card-header .tag {
+  float: right;
+}
+.template-gift_card .tag {
+  background-color: #bfbfbf;
+  padding: 0.5em;
+  padding-bottom: 0.35em;
+  border-radius: 4px;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #fff;
+  line-height: 1;
+}
+.template-gift_card .tag.light {
+  background: transparent;
+  color: #bfbfbf;
+  border: 1px solid #d9d9d9;
+}
+.template-gift_card .gift-card-holder {
+  margin: 0.75em;
+  margin-bottom: 1.25em;
+  margin-top: 1.25em;
+  position: relative;
+}
+.template-gift_card .gift-card-holder .corner {
+  display: block;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+  z-index: 2;
+}
+.template-gift_card .gift-card-holder .corner.top-left {
+  background: url("//cdn.shopify.com/s/assets/gift-card/corner-top-left-1585103bdd46bf1297b88f31bdfce999.png") 0 0 no-repeat;
+  top: -1px;
+  left: -1px;
+}
+.template-gift_card .gift-card-holder .corner.bottom-right {
+  background: url("//cdn.shopify.com/s/assets/gift-card/corner-bottom-right-ba899b18631cb91859e186c2cc1c6970.png") 0 0 no-repeat;
+  bottom: -1px;
+  right: -1px;
+}
+.template-gift_card .gift-card {
+  position: relative;
+  box-sizing: border-box;
+  position: relative;
+}
+.template-gift_card .gift-card:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  z-index: 1;
+  pointer-events: none;
+  -webkit-user-select: none;
+  user-select: none;
+  display: block;
+}
+.template-gift_card .gift-card img {
+  border-radius: 10px;
+  max-width: 100%;
+}
+.template-gift_card .gift-card-code-outer {
+  position: absolute;
+  bottom: 1em;
+  text-align: center;
+  width: 100%;
+}
+.template-gift_card .gift-card-code-outer.medium {
+  font-size: 0.875em;
+}
+.template-gift_card .gift-card-code-outer.small {
+  font-size: 0.75em;
+}
+.template-gift_card .gift-card-code-inner {
+  display: inline-block;
+  vertical-align: baseline;
+  zoom: 1;
+  *display: inline;
+  *vertical-align: auto;
+  background-color: #fff;
+  padding: 0.5em;
+  border-radius: 4px;
+  max-width: 450px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+}
+.template-gift_card .gift-card-code-inner strong {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.875em;
+  text-transform: uppercase;
+  border-radius: 2px;
+  border: 1px dashed #e5e5e5;
+  padding: 0.4em 0.5em;
+  display: inline-block;
+  vertical-align: baseline;
+  zoom: 1;
+  *display: inline;
+  *vertical-align: auto;
+  color: #777;
+  line-height: 1;
+}
+.template-gift_card .small .gift-card-code-inner {
+  overflow: auto;
+}
+.template-gift_card .disabled .gift-card-code-inner strong {
+  color: #999;
+  text-decoration: line-through;
+}
+.template-gift_card .gift-card-code-inner span + span {
+  margin-left: 0.25em;
+}
+.template-gift_card .gift-card-amount {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #fff;
+  font-size: 2.75em;
+  padding: 0.4em 0.5em;
+}
+.template-gift_card .gift-card-amount.medium {
+  font-size: 2.25em;
+}
+.template-gift_card .gift-card-amount strong {
+  text-shadow: 3px 3px 0 rgba(0, 0, 0, 0.1);
+  display: block;
+}
+.template-gift_card .tooltip {
+  position: relative;
+}
+.template-gift_card .tooltip:hover .tooltip-container {
+  display: block;
+}
+.template-gift_card .tooltip-container {
+  display: block;
+  position: absolute;
+  top: -100%;
+  right: 50%;
+  z-index: 3;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  animation: popup 0.5s ease-in-out both 0.7s;
+  top: -50%;
+  margin-top: 0.25em;
+}
+.template-gift_card .tooltip-triangle {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 5px solid #333;
+  border-top: 5px solid rgba(51, 51, 51, 0.9);
+  position: absolute;
+  left: 100%;
+  bottom: 0;
+  margin-left: -5px;
+  margin-bottom: -5px;
+}
+.template-gift_card .tooltip-label {
+  display: block;
+  position: relative;
+  right: -50%;
+  border: none;
+  border-radius: 4px;
+  background: #333;
+  background: rgba(51, 51, 51, 0.9);
+  color: #fff;
+  min-height: 14px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.4em;
+  text-decoration: none;
+  line-height: 16px;
+  text-shadow: none;
+  padding: 0.5em 0.75em;
+  margin-left: 0.25em;
+}
+.template-gift_card .gift-card-instructions {
+  font-size: 0.875em;
+  text-align: center;
+  color: #999;
+  margin: 0 0.75em 1.5em;
+}
+.template-gift_card .gift-card-qr-code {
+  display: block;
+}
+.template-gift_card .gift-card-qr-code img {
+  padding: 1.25em;
+  border: 1px solid #f2f2f2;
+  border-radius: 10px;
+  margin: 0 auto 1.25em;
+}
+.template-gift_card .gift-card-actions {
+  border-top: 1px solid #f2f2f2;
+  padding: 1.25em 0.75em;
+  text-align: center;
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+.template-gift_card .action-link {
+  font-size: 0.875em;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: #bfbfbf;
+  margin-top: 1.75em;
+  position: absolute;
+  left: 1.25em;
+  top: 1.25em;
+}
+.template-gift_card .action-link:hover {
+  color: #999;
+}
+.template-gift_card .action-link:hover .ico-16 {
+  opacity: 0.4;
+}
+.template-gift_card .ico-16 {
+  display: inline-block;
+  vertical-align: baseline;
+  zoom: 1;
+  *display: inline;
+  *vertical-align: auto;
+  width: 17px;
+  height: 17px;
+  vertical-align: bottom;
+  margin-bottom: -1px;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  margin-right: 0.5em;
+  opacity: 0.25;
+  transition: opacity 0.3s ease-in-out;
+}
+.template-gift_card .ico-16.print {
+  background-image: url("//cdn.shopify.com/s/assets/gift-card/icon-print-164daa1ae32d10d1f9b83ac21b6f2c70.png");
+}
+.template-gift_card footer[role=contentinfo] {
+  padding-bottom: 3em;
+  text-align: center;
+  animation: fadein 0.5s ease-in-out both 0.4s;
+}
+.template-gift_card .gift-card-apple-wallet-badge {
+  display: inline-block;
+}
+.template-gift_card .gift-card-apple-wallet-badge-image {
+  display: block;
+}
+@media screen and (max-width: 580px) {
+  .template-gift_card body {
+    font-size: 12px;
+  }
+  .template-gift_card h2 {
+    font-size: 1.5em;
+  }
+  .template-gift_card .gift-card-outer-container {
+    padding: 0.5em;
+  }
+  .template-gift_card .tooltip-container {
+    top: -65%;
+  }
+  .template-gift_card .gift-card-actions .btn {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 1.125em;
+  }
+  .template-gift_card .action-link {
+    position: relative !important;
+    left: auto !important;
+    right: auto !important;
+    top: auto !important;
+    font-size: 1.125em;
+    display: none;
+  }
+  .template-gift_card .action-link + .action-link {
+    margin-left: 1.5em;
+  }
+}
+@media screen and (max-width: 400px) {
+  .template-gift_card h2 {
+    font-size: 1.25em;
+  }
+  .template-gift_card .gift-card {
+    font-size: 10px;
+  }
+  .template-gift_card .gift-card-holder .corner {
+    display: none;
+  }
+  .template-gift_card .gift-card-holder .corner.bottom-right {
+    background-position: bottom right !important;
+  }
+  .template-gift_card .gift-card-amount strong {
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
+  }
+  .template-gift_card .tooltip-container {
+    top: -75%;
+  }
+}
+@media screen and (max-height: 800px) {
+  .template-gift_card .shop-title {
+    max-height: 100px;
+  }
+}
+@media screen and (max-height: 750px) {
+  .template-gift_card .shop-title {
+    max-height: 80px;
+  }
+  .template-gift_card header {
+    padding: 2em 0;
+  }
+  .template-gift_card footer[role=contentinfo],
+.template-gift_card main {
+    padding-bottom: 2em;
+  }
+}
+@media print {
+  @page {
+    .template-gift_card {
+      margin: 0.5cm;
+    }
+  }
+  .template-gift_card p,
+.template-gift_card h2,
+.template-gift_card h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  .template-gift_card h2,
+.template-gift_card h3 {
+    page-break-after: avoid;
+  }
+  .template-gift_card body {
+    background-color: #fff;
+  }
+  .template-gift_card .gift-card-actions,
+.template-gift_card .gift-card-holder .corner,
+.template-gift_card .tooltip-container,
+.template-gift_card .gift-card:before {
+    display: none;
+  }
+  .template-gift_card .gift-card-code-inner strong {
+    color: #555;
+  }
+  .template-gift_card .gift-card-amount .tooltip {
+    color: #fff !important;
+  }
+  .template-gift_card .shop-title {
+    color: #58686f;
+  }
+  .template-gift_card .gift-card-outer-container,
+.template-gift_card .gift-card-inner-container,
+.template-gift_card .gift-card-code-inner,
+.template-gift_card .gift-card:before {
+    box-shadow: none;
+  }
+}
+@keyframes slideup {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(2000px) rotate(10deg);
+  }
+  60% {
+    opacity: 1;
+    -webkit-transform: translateY(-30px);
+  }
+  80% {
+    -webkit-transform: translateY(10px);
+  }
+  100% {
+    -webkit-transform: translateY(0) rotate(0deg);
+  }
+}
+@keyframes popup {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(30px);
+  }
+  60% {
+    opacity: 1;
+    -webkit-transform: translateY(-10px);
+  }
+  80% {
+    -webkit-transform: translateY(2px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes container-slide {
+  0% {
+    opacity: 0;
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(0deg);
+  }
+}
+@keyframes fadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100;
+  }
+}
